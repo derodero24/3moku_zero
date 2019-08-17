@@ -1,6 +1,8 @@
 # 三目Zero
 AlphaZeroのアルゴリズムで三目並べするAI作った。
 
+![デモ画像](https://github.com/derodero24/3moku_zero/blob/master/demo.gif)
+
 ## コード
 - game.py: ゲーム状態
 - dual_network.py: デュアルネットワーク
